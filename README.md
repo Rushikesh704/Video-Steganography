@@ -19,10 +19,6 @@ python main.py
 ```
 you'll be greet with the main menu to encrypt the plain text and hide it in the video or decrypt and retreive the plain text from the video 
 
-![main menu](images/Selection_032.png)
-
-![main menu](images/Selection_033.png)
-
 For decryption plain text will be put in recovered-text.txt in data folder
 
 Warning :
